@@ -5,7 +5,7 @@
 
 ## Data Privacy and Security Notice
 
-**IMPORTANT**: All data hosted in this public repository consists exclusively of publicly available geographic information system (GIS) data. No confidential claim information, personal identifiable information (PII), or proprietary Sedgwick data is stored in this repository. All confidential claims data is processed through secure, private systems in accordance with Sedgwick's data security protocols and California Wildfire Fund administrative procedures.
+**IMPORTANT**: All data hosted in this public repository consists exclusively of publicly available geographic information system (GIS) data. No confidential claim information, personal identifiable information (PII), or proprietary Sedgwick data is stored in this repository. All confidential claims data is processed through secure, private systems in accordance with Sedgwick's data security protocols and client project procedures.
 
 ## GIS Data Components
 
